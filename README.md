@@ -1,0 +1,1 @@
+# SkeletonCSS-Parallax-Template
